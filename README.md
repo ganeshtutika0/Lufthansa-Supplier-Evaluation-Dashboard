@@ -146,15 +146,13 @@ The Executive Overview provides a consolidated view of supplier TCO, purchase co
 
 The Lifecycle Trend page provides a year-by-year view of downtime-related costs and supplier comparison.
 
-![Lifecycle Trend](images/lifecycle-trend.png)
-
 ---
 
 ### Risk & Sensitivity Analysis
 
 The Risk & Sensitivity Analysis page demonstrates the impact of changing downtime assumptions on adjusted TCO.
 
-![Risk & Sensitivity Analysis](images/risk-sensitivity-analysis.png)
+![Risk & Sensitivity Analysis](https://github.com/ganeshtutika0/Lufthansa-Supplier-Evaluation-Dashboard/blob/main/Risk%20and%20sensitivity%20analysis.png)
 
 ---
 
