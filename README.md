@@ -138,7 +138,7 @@ The approach demonstrates how **Power BI, DAX, and interactive data visualizatio
 
 The Executive Overview provides a consolidated view of supplier TCO, purchase cost, downtime, utilization, cost breakdown, and cost-per-hour KPIs.
 
-![Executive Overview](images/executive-overview.png)
+![Executive Overview]([images/executive-overview.png](https://github.com/ganeshtutika0/Lufthansa-Supplier-Evaluation-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png))
 
 ---
 
